@@ -1,4 +1,5 @@
 device/xiaomi/sm8350-common
+device/xiaomi/redwood-kernel
 vendor/xiaomi/
 kernel/xiaomi/
 hardware/xiaomi

@@ -1,5 +1,6 @@
 rm -rf device/xiaomi/sm8350-common
 git clone --depth=1 https://github.com/ProjectElixir-Devices/device_xiaomi_sm8350-common -b Redwood device/xiaomi/sm8350-common
+git clone --depth=1 https://github.com/ProjectElixir-Devices/android_kernel_xiaomi_redwood -b prebuilt-kernel device/xiaomi/redwood-kernel
 
 rm -rf kernel/xiaomi
 git clone --depth=1 https://github.com/ProjectElixir-Devices/android_kernel_xiaomi_redwood  kernel/xiaomi/sm8350
