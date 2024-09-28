@@ -1,6 +1,2 @@
 [
-  {
-    "repository": "crdroidandroid/android_kernel_xiaomi_redwood",
-    "target_path": "kernel/xiaomi/redwood"
-  }
 ]
